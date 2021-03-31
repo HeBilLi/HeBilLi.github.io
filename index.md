@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 ## Image Part:
 
@@ -65,7 +65,7 @@ I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job
 
 
 ### Section Links
-[This](#quoting-text) is the link to the Quoting text section in this page.
+[This](#Headings) is the link to the Headings section in this page.
 
 
 ### Relative Links
