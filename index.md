@@ -1,18 +1,18 @@
 ## Welcome to GitHub Pages
 
-### Image Part:
+## Image Part:
 
 ![Screenshot-Command](/index.assets/Screenshot-Command.png)
 
 
 
-##  Links:
+## Links Part:
 
 I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job exploring the designs of Mazda3.
 
 
 
-## Other core Markdown Constructs
+## Other core Markdown Constructs Part:
 
 ### Headings
 
@@ -65,7 +65,7 @@ I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job
 
 
 ### Section Links
-
+[This](#quoting-text) is the link to the Quoting text section in this page.
 
 
 ### Relative Links
