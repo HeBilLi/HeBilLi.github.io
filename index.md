@@ -65,7 +65,7 @@ I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job
 
 
 ### Section Links
-[This](#headings) is the link to the Headings section in this page.
+[This](#headings) is the link to the Headings section in the page.
 
 
 ### Relative Links
