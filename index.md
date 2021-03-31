@@ -88,6 +88,7 @@ The courses I think are interesting
 2. CSE132A
 3. CSE15L
 
+The following are the information about my insterests in the field
 1. I am interested in the follwing areas
    - Computer Science
      - Machine learning
