@@ -30,7 +30,6 @@ I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job
 ###### Currently not in USA
 
 
-
 ### Styling text
 
 **I am interested user interface design process**
