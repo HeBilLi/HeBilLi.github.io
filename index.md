@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
-### Image Part:
+## Image Part:
 
 ![Screenshot-Command](/index.assets/Beilei_Headshot.JPG)
 
 
 
-##  Links:
+## Links Part:
 
 Tha car model I like the most is Mazda3.
 I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job exploring the designs of Mazda3.
 
 
 
-## Other core Markdown Constructs
+## Other core Markdown Constructs Part:
 
 ### Headings
 
@@ -69,9 +69,10 @@ I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job
 [This](#headings) is the link to the Headings section in the page.
 
 
+
+
 ### Relative Links
-This is my first time using the format of yml, which is the format of the config file
-[This is the config file](_config.yml)
+[This is the config file](./_config.yml)
 
 
 
