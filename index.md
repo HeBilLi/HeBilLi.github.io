@@ -89,14 +89,14 @@ The courses I think are interesting
 3. CSE15L
 
 The following are the information about my insterests in the field
-1. I am interested in the follwing areas
+1. Engineering
    - Computer Science
      - Machine learning
 199. Computer Science
      - Human Interface Design
 200. Computer Science
      - Machine learning
-       -Natural Language Processing
+       - Natural Language Processing
 
 ### Homeworks
 - [ ] \(Almost finish) CSE110 Lab1
