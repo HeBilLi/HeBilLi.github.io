@@ -97,7 +97,7 @@ The following are the information about my insterests in the field
      - Machine learning
        - Natural Language Processing
 
-Homeworks
+Homework
 - [x] \(Almost finish)CSE110 Lab1
 - [ ] CSE101 HW1
 - [ ] CSE151A HW1
