@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-## Image Part:
+### Image Part:
 
 ![Screenshot-Command](/index.assets/Screenshot-Command.png)
 
@@ -97,9 +97,4 @@ I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job
 - [ ] First element in the task list
 - [ ] Second element in the task list
 - [ ] \(This is) Third element in the task list
-
-
-
-
-
 
