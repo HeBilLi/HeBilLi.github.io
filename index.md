@@ -2,12 +2,13 @@
 
 ### Image Part:
 
-![Screenshot-Command](/index.assets/Screenshot-Command.png)
+![Screenshot-Command](/index.assets/Beilei_Headshot.JPG)
 
 
 
 ##  Links:
 
+Tha car model I like the most is Mazda3.
 I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job exploring the designs of Mazda3.
 
 
@@ -16,37 +17,37 @@ I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job
 
 ### Headings
 
-# Heading 1
+# My name is Beilei He
 
-## Heading 2
+## I am from China
 
-### Heading 3
+### 3rd year undergraduate
 
-#### Heading 4
+#### cs major
 
-##### Heading 5
+##### Interested in Machine Learning
 
-###### Heading 6
+###### Currently not in USA
 
 
 
 ### Styling text
 
-**This is a bold style text**
+**I am interested user interface design process**
 
-*This is an italic style text*
+*Design should be centered around functionality and usability*
 
-~~This is a deleted text~~
+~~It is not about being fancy~~
 
-**We can also nest _italic_ style inside bold**
+**What matters is _customer_ using experience**
 
-***We can also make everything here bold and italic***
+***Design is about people***
 
 
 
 ### Quoting text
 
-> This is a quoting text demo
+> The function of design is letting design function.
 
 
 
@@ -65,36 +66,38 @@ I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job
 
 
 ### Section Links
-
+[This](#headings) is the link to the Headings section in the page.
 
 
 ### Relative Links
-
+This is my first time using the format of yml, which is the format of the config file
 [This is the config file](_config.yml)
 
 
 
 ### Lists
+The courses I take this quarter
+- CSE101
+- CSE110
+- CSE151A
+- ENG100D
 
-- This is the first item in the unordered list
-- This is the second item in the unordered list
-- This is the third item in the unordered list
+The courses I think are interesting
+1. CSE105
+2. CSE132A
+3. CSE15L
 
-1. This is the first item in the ordered list
-2. This is the second item in the ordered list
-3. This is the third item in the ordered list
+1. I am interested in the follwing areas
+   - Computer Science
+     - Machine learning
+199. Computer Science
+     - Human Interface Design
+200. Computer Science
+     - Machine learning
+       -Natural Language Processing
 
-1. This is an example of a nested list
-   - This is first level nested list item
-     - This is second level nested list item
-199. Another nested list example
-     - Another nested list item
-200. Another nested list example
-     - First level nested list item
-       -Second level nested list item
-
-### Task lists
-- [ ] First element in the task list
-- [ ] Second element in the task list
-- [ ] \(This is) Third element in the task list
+### Homeworks
+- [ ] \(Almost finish) CSE110 Lab1
+- [ ] CSE101 HW1
+- [ ] CSE151A HW1
 
