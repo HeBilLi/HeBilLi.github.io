@@ -98,7 +98,7 @@ The following are the information about my insterests in the field
        - Natural Language Processing
 
 ### Homeworks
-- [x] \(Almost finish) CSE110 Lab1
+- [x] \(Almost finish)CSE110 Lab1
 - [ ] CSE101 HW1
 - [ ] CSE151A HW1
 
