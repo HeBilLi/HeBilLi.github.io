@@ -71,7 +71,7 @@ I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job
 
 
 ### Relative Links
-[This is the config file](./_config.yml)
+[This is the config file](./hello.md)
 
 
 
