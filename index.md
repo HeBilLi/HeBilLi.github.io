@@ -65,13 +65,13 @@ I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job
 
 
 ### Section Links
-[This](https://github.com/HeBilLi/HeBilLi.github.io/blob/main/index.md#image-part) is the link to the my picture section in this page.
+[This](#headings) is the heading section in this page.
 
 
 
 
 ### Relative Links
-[This is the config file](./hello.md)
+[This is another md file](./hello.md)
 
 
 
