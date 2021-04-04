@@ -5,17 +5,7 @@
 ![Screenshot-Command](/index.assets/Beilei_Headshot.JPG)
 
 
-
-## Links Part:
-
-Tha car model I like the most is Mazda3.
-I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job exploring the designs of Mazda3.
-
-
-
-## Other core Markdown Constructs Part:
-
-### Headings
+## Headings
 
 # My name is Beilei He
 
@@ -30,7 +20,7 @@ I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job
 ###### Currently not in USA
 
 
-### Styling text
+## Styling text
 
 **I am interested user interface design process**
 
@@ -44,13 +34,13 @@ I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job
 
 
 
-### Quoting text
+## Quoting text
 
 > The function of design is letting design function.
 
 
 
-###  Quoting code
+##  Quoting code
 
 ```
  System.out.prinln("Hello again, world");
@@ -58,35 +48,38 @@ I think [this](https://www.youtube.com/watch?v=w3yahl8RMJY) video did a good job
 
  
 
-### Links
+## External links
 
 [This](https://www.youtube.com/watch?v=w3yahl8RMJY) is a very interesting review on Mazada3
 
 
 
-### Section Links
+## Section links
 [This](#headings) is the heading section in this page.
 
 
 
 
-### Relative Links
+## Relative links
 [This](./hello.md) is a link to another page.
 
 
 
-### Lists
-The courses I take this quarter
-- CSE101
-- CSE110
-- CSE151A
-- ENG100D
+## Ordered list
 
 The courses I think are interesting
 1. CSE105
 2. CSE132A
 3. CSE15L
 
+## Unordered list
+The courses I take this quarter
+- CSE101
+- CSE110
+- CSE151A
+- ENG100D
+
+## Nested list
 The following are the information about my insterests in the field
 1. Engineering
    - Computer Science
@@ -97,6 +90,7 @@ The following are the information about my insterests in the field
      - Machine learning
        - Natural Language Processing
 
+## Task list
 Homework
 - [x] \(Almost finish)CSE110 Lab1
 - [ ] CSE101 HW1
